@@ -1,4 +1,7 @@
 # Lifts or Stairs?
+
+<img src="ss.png" alt="summary">
+
 ## An Agent-based approach to improve Transit Passenger Experience
 
 The London Underground network has about twenty stations with lift-only access for entry and exit. Passengers are actively discouraged from using the emergency staircase due to their tight space and depth, equivalent to a 15-storey building in some places. However, many impatient passengers hike the steep steps anyway when faced with long waits for the lifts during peak hours.
